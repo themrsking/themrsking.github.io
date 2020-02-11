@@ -1,11 +1,11 @@
 # Site settings
 author: Stefani King
-title: 
+title: Old School Advertisement for the WIN
 header-img: img/home-bg.png
 email: themrsking@gmail.com
 copyright_name: Stefani King
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Look Up
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  themrsking
